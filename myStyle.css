@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(143, 186, 255);
+}
+
+h1  {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: wheat;
+}
+
+#hii    {
+    width: 800px;
+    margin:0 auto;
+}
+
+#hellooo    {
+    margin: 0 auto;
+}
